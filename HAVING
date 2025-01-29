@@ -1,0 +1,1 @@
+SELECT Country, City, COUNT(CustomerName) AS NumberOfPeople FROM `customers` HAVING COUNT(CustomerName) > 5; 
