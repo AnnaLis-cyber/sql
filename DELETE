@@ -1,0 +1,1 @@
+DELETE FROM `shippers` WHERE Phone LIKE '%5'; 
