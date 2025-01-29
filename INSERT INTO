@@ -1,0 +1,1 @@
+INSERT INTO shippers (ShipperName) VALUES ('Abc kot'); 
